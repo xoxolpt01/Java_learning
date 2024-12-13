@@ -1,0 +1,10 @@
+Python`s some command 
+
+def something(x):
+
+    return x**x;
+
+
+num = 2;
+
+print(something(num));
